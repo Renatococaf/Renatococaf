@@ -48,8 +48,16 @@
 
 ---
 
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Renatococaf&color=6A5ACD&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Renatococaf&color=6A5ACD&style=for-the-badge&label=VISUALIZAÇÕES)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Renatococaf?style=for-the-badge&color=6A5ACD&label=SEGUIDORES)
+&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/Renatococaf?style=for-the-badge&color=6A5ACD&label=ESTRELAS)
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=80&section=footer"/>
