@@ -49,7 +49,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Renatococaf&color=6A5ACD&style=flat-square&label=Visualizações+do+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Renatococaf&color=6A5ACD&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=80&section=footer"/>
