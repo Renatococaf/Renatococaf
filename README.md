@@ -1,9 +1,10 @@
-<h1 align="center">Olá, sou Renato! 👋</h1>
-<h3 align="center">Dev em formação | Backend • IA • APIs</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Backend+developer+%F0%9F%9A%80;IA+%26+Machine+Learning+%F0%9F%A4%96;API+builder+%E2%9A%A1;Python+%E2%80%A2+PHP+%E2%80%A2+Java+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=140&section=header&text=Renato%20Coca&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Dev%20em%20formação%20|%20Backend%20•%20IA%20•%20APIs&descSize=17&descAlignY=72&descColor=ffffffcc"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Backend+developer+🚀;IA+%26+Machine+Learning+🤖;API+builder+⚡;Python+•+PHP+•+Java+💻)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -18,28 +19,25 @@
 
 ## 🛠️ Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,java,c,cpp,postgres&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode&theme=dark" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renatococaf&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatococaf&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renatococaf&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatococaf&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renatococaf&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renatococaf&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -50,6 +48,8 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Renatococaf&color=6A5ACD&style=flat-square&label=Visualizações+do+perfil" />
-</p>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=80&section=footer"/>
